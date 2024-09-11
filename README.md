@@ -12,6 +12,7 @@ In this repository, I will be solving the leetcode's top interview 150 problems 
 | 4 | [Remove Duplicates From Sorted Array II](#remove-duplicates-from-sorted-array-ii) |
 | 5 | [Majority Element](#majority-element) |
 | 6 | [Rotate Array](#rotate-array) |
+| 7 | [Best Time To Buy And Sell Stock](#best-time-to-buy-and-sell-stock) |
 
 ## <a id="merge-sorted-array"></a>1. Merge Sorted Array
 Checkoout the problem here in [Leetcode](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
@@ -30,3 +31,6 @@ Checkoout the problem here in [Leetcode](https://leetcode.com/problems/majority-
 
 ## <a id="rotate-array"></a>6. Rotate Array
 Checkoout the problem here in [Leetcode](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150)
+
+## <a id="best-time-to-buy-and-sell-stock"></a>7. Best Time To Buy And Sell Stock
+Checkoout the problem here in [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=study-plan-v2&envId=top-interview-150)
