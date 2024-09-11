@@ -11,6 +11,7 @@ In this repository, I will be solving the leetcode's top interview 150 problems 
 | 3 | [Remove Duplicates From Sorted Array](#remove-duplicates-from-sorted-array) |
 | 4 | [Remove Duplicates From Sorted Array II](#remove-duplicates-from-sorted-array-ii) |
 | 5 | [Majority Element](#majority-element) |
+| 6 | [Rotate Array](#rotate-array) |
 
 ## <a id="merge-sorted-array"></a>1. Merge Sorted Array
 Checkoout the problem here in [Leetcode](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
@@ -26,3 +27,6 @@ Checkoout the problem here in [Leetcode](https://leetcode.com/problems/remove-du
 
 ## <a id="majority-element"></a>5. Majority Element
 Checkoout the problem here in [Leetcode](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)
+
+## <a id="rotate-array"></a>6. Rotate Array
+Checkoout the problem here in [Leetcode](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150)
