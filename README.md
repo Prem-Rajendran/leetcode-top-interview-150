@@ -14,6 +14,7 @@ In this repository, I will be solving the leetcode's top interview 150 problems 
 | 6 | [Rotate Array](#rotate-array) |
 | 7 | [Best Time To Buy And Sell Stock](#best-time-to-buy-and-sell-stock) |
 | 8 | [Best Time To Buy And Sell Stock II](#best-time-to-buy-and-sell-stock-ii) |
+| 9 | [Jump Game](#jump-game) |
 
 # Arrays
 
@@ -40,3 +41,6 @@ Checkoout the problem here in [Leetcode](https://leetcode.com/problems/best-time
 
 ## <a id="best-time-to-buy-and-sell-stock-ii"></a>8. Best Time To Buy And Sell Stock II
 Checkoout the problem here in [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150)
+
+## <a id="jump-game"></a>9. Jump Game
+Checkoout the problem here in [Leetcode](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150)
