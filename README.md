@@ -13,6 +13,9 @@ In this repository, I will be solving the leetcode's top interview 150 problems 
 | 5 | [Majority Element](#majority-element) |
 | 6 | [Rotate Array](#rotate-array) |
 | 7 | [Best Time To Buy And Sell Stock](#best-time-to-buy-and-sell-stock) |
+| 8 | [Best Time To Buy And Sell Stock II](#best-time-to-buy-and-sell-stock-ii) |
+
+# Arrays
 
 ## <a id="merge-sorted-array"></a>1. Merge Sorted Array
 Checkoout the problem here in [Leetcode](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
@@ -34,3 +37,6 @@ Checkoout the problem here in [Leetcode](https://leetcode.com/problems/rotate-ar
 
 ## <a id="best-time-to-buy-and-sell-stock"></a>7. Best Time To Buy And Sell Stock
 Checkoout the problem here in [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=study-plan-v2&envId=top-interview-150)
+
+## <a id="best-time-to-buy-and-sell-stock-ii"></a>8. Best Time To Buy And Sell Stock II
+Checkoout the problem here in [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150)
