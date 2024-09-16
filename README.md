@@ -15,6 +15,8 @@ In this repository, I will be solving the leetcode's top interview 150 problems 
 | 7 | [Best Time To Buy And Sell Stock](#best-time-to-buy-and-sell-stock) |
 | 8 | [Best Time To Buy And Sell Stock II](#best-time-to-buy-and-sell-stock-ii) |
 | 9 | [Jump Game](#jump-game) |
+| 10 | [Jump Game II](#jump-game-ii) |
+| 11 | [H-Index](#h-index) |
 
 # Arrays
 
@@ -44,3 +46,9 @@ Checkoout the problem here in [Leetcode](https://leetcode.com/problems/best-time
 
 ## <a id="jump-game"></a>9. Jump Game
 Checkoout the problem here in [Leetcode](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150)
+
+## <a id="jump-game-ii"></a>10. Jump Game II
+Checkoout the problem here in [Leetcode](https://leetcode.com/problems/jump-game-ii/?envType=study-plan-v2&envId=top-interview-150)
+
+## <a id="h-index"></a>11. H-Index
+Checkoout the problem here in [Leetcode](https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150)
