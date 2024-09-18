@@ -17,6 +17,7 @@ In this repository, I will be solving the leetcode's top interview 150 problems 
 | 9 | [Jump Game](#jump-game) |
 | 10 | [Jump Game II](#jump-game-ii) |
 | 11 | [H-Index](#h-index) |
+| 12 | [Insert Delete GetRandom O(1)](#insert-delete-getRandom) |
 
 # Arrays
 
@@ -52,3 +53,6 @@ Checkoout the problem here in [Leetcode](https://leetcode.com/problems/jump-game
 
 ## <a id="h-index"></a>11. H-Index
 Checkoout the problem here in [Leetcode](https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150)
+
+## <a id="insert-delete-getRandom"></a>12. Insert Delete GetRandom O(1)
+Checkoout the problem here in [Leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150)
