@@ -18,6 +18,7 @@ In this repository, I will be solving the leetcode's top interview 150 problems 
 | 10 | [Jump Game II](#jump-game-ii) |
 | 11 | [H-Index](#h-index) |
 | 12 | [Insert Delete GetRandom O(1)](#insert-delete-getRandom) |
+| 13 | [Product of Array Except Self](#product-of-array-except-self) |
 
 # Arrays
 
@@ -56,3 +57,6 @@ Checkoout the problem here in [Leetcode](https://leetcode.com/problems/h-index/d
 
 ## <a id="insert-delete-getRandom"></a>12. Insert Delete GetRandom O(1)
 Checkoout the problem here in [Leetcode](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150)
+
+## <a id="product-of-array-except-self"></a>13. Product of Array Except Self
+Checkoout the problem here in [Leetcode](https://leetcode.com/problems/product-of-array-except-self/?envType=study-plan-v2&envId=top-interview-150)
