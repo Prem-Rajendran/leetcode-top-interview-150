@@ -20,6 +20,7 @@ In this repository, I will be solving the leetcode's top interview 150 problems 
 | 12 | [Insert Delete GetRandom O(1)](#insert-delete-getRandom) |
 | 13 | [Product of Array Except Self](#product-of-array-except-self) |
 | 14 | [Gas Station](#gas-station) |
+| 15 | [Candy](#candy) |
 
 # Arrays
 
@@ -64,3 +65,6 @@ Checkoout the problem here in [Leetcode](https://leetcode.com/problems/product-o
 
 ## <a id="gas-station"></a>14. Gas Station
 Checkoout the problem here in [Leetcode](https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150)
+
+## <a id="candy"></a>15. Candy
+Checkoout the problem here in [Leetcode](https://leetcode.com/problems/candy/?envType=study-plan-v2&envId=top-interview-150)
